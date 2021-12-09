@@ -11,6 +11,7 @@
   <li>c++</li>
   <li>Djanago</li>
   <li>Php</li>
+   <li>Laravel</li>
   <li>javascript</li>
   <li>DotNet</li>
   <li>Html</li>
