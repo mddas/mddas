@@ -2,7 +2,7 @@
   <img src="https://github.com/mddas/CMS/blob/master/images/33110028_2109810212612748_3893850378852106240_n.jpg">
 <h3>Introduction</h3>
 <p>full name :<a href="https://www.facebook.com/manojdastopa/">Manoj das</a></p>
-<p>current Location: janakpur </p>
+<p>current Location: KTM </p>
 <p>profession:Developer</p>
 <h3>Skills</h3>
 <ul>
