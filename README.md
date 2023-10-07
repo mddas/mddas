@@ -7,13 +7,11 @@
 <h3>Skills</h3>
 <ul>
   <li>python</li>
-  <li>Java</li>
   <li>c++</li>
   <li>Djanago</li>
   <li>Php</li>
    <li>Laravel</li>
   <li>javascript</li>
-  <li>DotNet</li>
   <li>Html</li>
   <li>CSS</li>
 </ul>
